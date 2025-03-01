@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying in Computer Science major.<br>Also pursuing to be a Back-End Web Developer.
+Fresh graduate of Computer Science major.<br>Also pursuing to be a Back-End Web Developer.
 
 
 ## 🌐 Socials:
